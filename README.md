@@ -1,5 +1,12 @@
 # STATLINE
 
+<img width="680" height="627" alt="image" src="https://github.com/user-attachments/assets/2abc1cf6-4858-4204-9970-bcc43f1c8e28" />
+<img width="1889" height="931" alt="image" src="https://github.com/user-attachments/assets/ee972837-72c1-42f8-8bd8-1dfa7b622a47" />
+<img width="1898" height="795" alt="image" src="https://github.com/user-attachments/assets/a3fbb6b5-7126-4a55-9b50-419cbfd77249" />
+
+
+
+
 FIBA basketball league office and courtside scorer: player registry and profiles, live game recording, box scores, standings, leaders, lineups and season matchups, and the league office set-up (schedule, teams, rosters, leagues, seasons).
 This is the first real build of the [prototype](../../../Downloads/STATLINE-handoff/README.md). All three recorders (Fast, Classic, Phone) are built **without voice input**: the Fast and Phone recorders take typed commands instead, and the Phone recorder still reads entries aloud and vibrates.
 
